@@ -1,5 +1,5 @@
 ##strings and operation 
-str1= "hii saransh \n c , c++"#3 \n for next line 
+str1= "hii osaka \n c , c++"#3 \n for next line 
 print(str1)
 str2= "hii a \t z"## use for tab \t
 print(str2)
@@ -44,3 +44,4 @@ print(len(str6))
 # count th $
 str7= " i am the $programmer of $python"
 print(str7.count("$"))
+
